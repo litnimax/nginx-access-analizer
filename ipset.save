@@ -1,0 +1,2 @@
+create syndos hash:ip family inet hashsize 16384 maxelem 65536 timeout 86400
+create bandos hash:ip family inet hashsize 16384 maxelem 65536 timeout 86400
